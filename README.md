@@ -1,2 +1,1 @@
-# mbsolutions
-my business card website
+# Marcin Berendt - Portfolio WebSite
